@@ -1,26 +1,26 @@
 [
   {
     "remote":       "omnirom",
-    "repository":   "android_device_samsung_t0lte",
-    "target_path":  "device/samsung/t0lte",
+    "repository":   "android_device_samsung_trlte",
+    "target_path":  "device/samsung/trlte",
     "revision":     "android-4.4"
   },
   {
     "remote":       "omnirom",
-    "repository":   "android_device_samsung_smdk4412-common",
-    "target_path":  "device/samsung/smdk4412-common",
+    "repository":   "android_device_samsung_apq8084-common",
+    "target_path":  "device/samsung/apq8084-common",
     "revision":     "android-4.4"
   },
   {
     "remote":       "omnirom",
-    "repository":   "android_device_samsung_smdk4412-qcom-common",
-    "target_path":  "device/samsung/smdk4412-qcom-common",
+    "repository":   "android_device_samsung_apq8084-qcom-common",
+    "target_path":  "device/samsung/apq8084-qcom-common",
     "revision":     "android-4.4"
   },
   {
     "remote":       "omnirom",
-    "repository":   "android_kernel_samsung_smdk4412",
-    "target_path":  "kernel/samsung/smdk4412",
+    "repository":   "android_kernel_samsung_apq8084",
+    "target_path":  "kernel/samsung/apq8084",
     "revision":     "android-4.4"
   },
   {
