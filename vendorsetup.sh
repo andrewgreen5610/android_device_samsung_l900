@@ -1,1 +1,1 @@
-add_lunch_combo omni_l900-userdebug
+add_lunch_combo omni_trlteatt-userdebug
